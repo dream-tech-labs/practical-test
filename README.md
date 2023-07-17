@@ -25,3 +25,7 @@ Please submit the branch you created as a pull request.
 
 Please contact us if you are having any issues getting this project running.
 
+## Estiamted Effort
+- Star Wars Test:
+  - 1h 30m
+
