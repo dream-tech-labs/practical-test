@@ -17,6 +17,11 @@ To get the project started and running.
 ## Other Instructions
 Once the project is up and running on your local machine, please follow the instructions on the home page. 
 
+## When Your Done
+
+Please submit the branch you created as a pull request.
+
 ## Support
 
 Please contact us if you are having any issues getting this project running.
+
