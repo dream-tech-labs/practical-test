@@ -2,7 +2,7 @@
 
 ## Overview
 This is a practical test repo which may consist of multiple tests based on level of experience.
-Dont forget the most important thing of all etra effort is always appreciated. (bonus)
+Dont forget the most important thing of all extra effort is always appreciated. (bonus)
 
 ## Pre-requisites
 
